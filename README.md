@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import zfill from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-zfill@esm/index.mjs';
+import zfill from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-zfill@v0.1.0-esm/index.mjs';
 ```
 
 #### zfill( N, alpha, x, strideX )
@@ -199,7 +199,7 @@ y = x.get( 2 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-ctor@esm/index.mjs';
 import Complex128Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex128@esm/index.mjs';
-import zfill from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-zfill@esm/index.mjs';
+import zfill from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-zfill@v0.1.0-esm/index.mjs';
 
 var xbuf = discreteUniform( 20, -100, 100, {
     'dtype': 'float64'
