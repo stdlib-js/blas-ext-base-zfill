@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import zfill from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-zfill@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-zfill/tags). For example,
+
+```javascript
 import zfill from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-zfill@v0.1.1-esm/index.mjs';
 ```
 
@@ -199,7 +204,7 @@ y = x.get( 2 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-ctor@esm/index.mjs';
 import Complex128Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex128@esm/index.mjs';
-import zfill from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-zfill@v0.1.1-esm/index.mjs';
+import zfill from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-zfill@esm/index.mjs';
 
 var xbuf = discreteUniform( 20, -100, 100, {
     'dtype': 'float64'
