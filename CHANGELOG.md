@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-13)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7b564a3`](https://github.com/stdlib-js/stdlib/commit/7b564a39babd79ca96b5dba128d963b85ba5d94f) - **bench:** refactor to use string interpolation in `blas/ext/base/zfill` [(#10889)](https://github.com/stdlib-js/stdlib/pull/10889) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
