@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-29)
+## Unreleased (2026-05-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`bcdee7b`](https://github.com/stdlib-js/stdlib/commit/bcdee7beb5eea973b528014038f1d602730213a3) - **docs:** improve doctests for complex number typed arrays in `blas/ext/base/zfill` [(#11977)](https://github.com/stdlib-js/stdlib/pull/11977) _(by Karan Anand)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`41e2b32`](https://github.com/stdlib-js/stdlib/commit/41e2b321ee542ca7774071f7cf0f437a7d814be6) - **bench:** restore benchmark names _(by Philipp Burckhardt)_
 -   [`7b564a3`](https://github.com/stdlib-js/stdlib/commit/7b564a39babd79ca96b5dba128d963b85ba5d94f) - **bench:** refactor to use string interpolation in `blas/ext/base/zfill` [(#10889)](https://github.com/stdlib-js/stdlib/pull/10889) _(by Partha Das)_
@@ -26,9 +27,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Partha Das
 -   Philipp Burckhardt
 
